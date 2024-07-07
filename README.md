@@ -1,3 +1,5 @@
 ## Hi, I'm Leonardo Dulanto 
 
-<p>I am a recent graduate from the University of California, Santa Cruz majoring </p>
+<h1>About Me</h1>
+
+<p>I am a recent graduate from the University of California, Santa Cruz majoring in Cognitive Science </p>
