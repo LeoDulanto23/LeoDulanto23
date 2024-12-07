@@ -12,3 +12,4 @@
 <h4>&#x2022; Game Design</h4>
 
 <h2>Notable Projects & Case Studies</h2>
+<h4>&#x2022; DANDY</h4>
