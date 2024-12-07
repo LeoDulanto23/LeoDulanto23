@@ -10,3 +10,5 @@
 <h4>&#x2022; Frontend Development</h4>
 <h4>&#x2022; UI/UX Design</h4>
 <h4>&#x2022; Game Design</h4>
+
+<h2>Notable Projects & Case Studies</h2>
